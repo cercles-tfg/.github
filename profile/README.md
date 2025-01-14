@@ -76,7 +76,7 @@ Inicia Apache Tomcat y verifica que la aplicación esté funcionando accediendo 
 | Archivo                                                      | Nombre                             | Descripción                                                |
 |--------------------------------------------------------------|------------------------------------|------------------------------------------------------------|
 | [Manual de usuario](https://github.com/cercles-tfg/cercles-tfg-frontend/blob/main/docs/Manual%20de%20usuario.pdf) | Manual de usuario                  | Guía para los usuarios de la aplicación CERCLES, explicando cómo usar las funcionalidades. |
-| [openapi.yaml](https://github.com/cercles-tfg/cercles-tfg-backend/blob/master/docs/openapi.yaml) | Documentación Swagger API           | Archivo YAML que describe la API RESTful de CERCLES, utilizado para generar la documentación Swagger. |
+| [Swagger API](https://cercles-tfg.github.io/cercles-tfg-backend/) | Documentación Swagger API           | Acceso al Swagger que describe la API RESTful de CERCLES, creado mediante una GitHub Page |
 
 ---
 
