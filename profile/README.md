@@ -6,6 +6,15 @@ CERCLES (Creació d'Equips i seguiment del Rendiment i CoL·laboració En projec
 
 ---
 
+## **Componentes**
+
+| Repositorio                                     | Nombre                        | Descripción                                          |
+|-------------------------------------------------|-------------------------------|------------------------------------------------------|
+| [cercles-tfg-frontend](https://github.com/tu_usuario/cercles-tfg-frontend)  | CERCLES Frontend              | Frontend de la aplicación CERCLES, desarrollado con React. |
+| [cercles-tfg-backend](https://github.com/tu_usuario/cercles-tfg-backend)    | CERCLES Backend               | Backend de la aplicación CERCLES, desarrollado con Spring Boot. |
+
+---
+
 ## **Requisitos de Instalación**
 
 Antes de proceder con la instalación de CERCLES, asegúrate de cumplir con los siguientes requisitos:
